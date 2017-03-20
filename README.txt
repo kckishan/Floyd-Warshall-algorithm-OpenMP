@@ -1,5 +1,3 @@
-The C program can be executed using slurm_apsp.sh or compiling it in terminal itself. 
-
 apsp_small.c solves a graph with 4 nodes(graph taken from wiki to validate implementation).
 
 apsp_1200_nodes solves a graph with 1200 nodes. 
